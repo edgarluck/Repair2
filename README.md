@@ -1,5 +1,5 @@
 # Repair2
-Solución al script de CamPhish que no genera enlace via ngrok :)
+Solución al script de CamPhish que no genera enlace vía ngrok :)
 
 # Instalación en Termux
 
