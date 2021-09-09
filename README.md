@@ -7,6 +7,8 @@ $ apt update && apt upgrade -y
 
 $ pkg install git php -y
 
+$ pkg install openssh -y
+
 $ git clone https://github.com/edgarluck/Repair2.git
 
 $ cd Repair2
