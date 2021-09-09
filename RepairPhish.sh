@@ -68,9 +68,9 @@ case ${opcion} in
 		rm camphish.sh
 		cd
 		cd Repair2
+                chmod 711 camphish.sh
 		cp camphish.sh $HOME
 		cd
-		chmod 711 camphish.sh
 		mv camphish.sh CamPhish
 		cd
                 echo -e "$verde[$blanco*$verde]$blanco Procesando..."
