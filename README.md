@@ -15,7 +15,13 @@ $ cd Repair2
 
 $ bash RepairPhish.sh
 
+* Selecciónar el numero " 2 " , si todavía no tiene clonado el repositorio de CamPhish
+y clonar en otra terminal ( asegurese de estar en la ruta " home " para clonar.
+
+* Si ya tiene clonado el repositorio de CamPhish selecciónar el número " 1 " y darle enter.
 
 Comunicarme por Telegram si presenta problemas
 
 TELEGRAM : https://t.me/EdgarLuck
+
+# No me hago responsable por el mal uso que lo den todo esto es con fines educativos e informativos .
