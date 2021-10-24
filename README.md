@@ -29,4 +29,6 @@ TELEGRAM : https://t.me/EdgarLuck
 
 # Link del vídeo: https://youtu.be/K_Gwc_lRYUQ Dale like y Suscríbete :)
 
+# Link del vídeo actualizado: https://youtu.be/mKyokAbRZLg
+
 # No me hago responsable por el mal uso que lo den, todo esto es con fines educativos e informativos .
