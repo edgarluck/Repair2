@@ -17,12 +17,11 @@ $ git clone https://github.com/edgarluck/Repair2.git
 
 $ cd Repair2
 
+$ chmod +x RepairPhish.sh
+
 $ bash RepairPhish.sh
 
-* Selecciónar el numero " 2 " , si todavía no tiene clonado el repositorio de CamPhish
-y clonar en otra terminal ( asegurese de estar en la ruta " home " para clonar.
-
-* Si ya tiene clonado el repositorio de CamPhish selecciónar el número " 1 " y darle enter.
+* Se agregaron más mejoras en el script.
 
 Comunicarme por Telegram si presenta problemas
 
