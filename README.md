@@ -1,5 +1,5 @@
 # Repair2
-Solución al script de CamPhish que no genera enlace vía ngrok :)
+Solución a los siguientes script de CamPhish, insecam, KitFish, FotoSploit que no genera enlace vía ngrok :)
 
 # Instalación en Termux
 
@@ -8,6 +8,10 @@ $ apt update && apt upgrade -y
 $ pkg install git php -y
 
 $ pkg install openssh -y
+
+$ pkg install proot -y
+
+$ pkg install resolv-conf -y
 
 $ git clone https://github.com/edgarluck/Repair2.git
 
