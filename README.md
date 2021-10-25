@@ -1,3 +1,6 @@
+[![Screenshot-2021-10-24-20-45-10.png](https://i.postimg.cc/SKrQkWsw/Screenshot-2021-10-24-20-45-10.png)](https://postimg.cc/CZRp4nbN)
+
+
 # Repair2
 Solución a los siguientes script de CamPhish, insecam, KitFish, FotoSploit que no genera enlace vía ngrok :)
 
