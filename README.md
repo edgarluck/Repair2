@@ -1,14 +1,14 @@
 # Repair2
 Solución a los siguientes script que no generan enlace vía ngrok :
- > CamPhish
+ * CamPhish
 
- > insecam
+ * insecam
 
- > KitFish
+ * KitFish
 
- > FotoSploit
+ * FotoSploit
 
- > scam 
+ * scam 
 
 # Instalación en Termux
 
