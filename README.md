@@ -1,5 +1,10 @@
 # Repair2
-Solución a los siguientes script de CamPhish, insecam, KitFish, FotoSploit, scam que no genera enlace vía ngrok :)
+Solución a los siguientes script que no generan enlace vía ngrok :
+ > CamPhish
+ > insecam
+ > KitFish
+ > FotoSploit
+ > scam 
 
 # Instalación en Termux
 
