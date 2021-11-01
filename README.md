@@ -21,11 +21,11 @@ $ chmod +x RepairPhish.sh
 
 $ bash RepairPhish.sh
 
-* Se agregaron más mejoras en el script.
-
+* Se agrego scam .
+* Más mejoras en el script.
+* Pronto estara disponible para SocialSploit.
 # Screenshot 
-[![Screenshot-2021-10-24-20-45-10.png](https://i.postimg.cc/SKrQkWsw/Screenshot-2021-10-24-20-45-10.png)](https://postimg.cc/CZRp4nbN)
-
+[![Screenshot-2021-11-01-11-24-52.png](https://i.postimg.cc/zDs304Xj/Screenshot-2021-11-01-11-24-52.png)](https://postimg.cc/LhVHsCPY)
 Comunicarme por Telegram si presenta problemas
 
 TELEGRAM : https://t.me/EdgarLuck
