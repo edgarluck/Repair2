@@ -1,5 +1,5 @@
 # Repair2
-Solución a los siguientes script que no generan enlace vía ngrok :
+Solución a los siguientes scripts que no generan enlace vía ngrok :
  * CamPhish
 
  * insecam
