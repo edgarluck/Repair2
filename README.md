@@ -32,7 +32,6 @@ $ bash RepairPhish.sh
 
 * Se agrego scam .
 * Más mejoras en el script.
-* Pronto estara disponible para SocialSploit.
 # Screenshot 
 [![Screenshot-2021-11-01-11-24-52.png](https://i.postimg.cc/zDs304Xj/Screenshot-2021-11-01-11-24-52.png)](https://postimg.cc/LhVHsCPY)
 Comunicarme por Telegram si presenta problemas
