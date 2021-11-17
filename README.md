@@ -22,6 +22,8 @@ $ pkg install proot -y
 
 $ pkg install resolv-conf -y
 
+$ cd $HOME
+
 $ git clone https://github.com/edgarluck/Repair2.git
 
 $ cd Repair2
@@ -38,8 +40,8 @@ Comunicarme por Telegram si presenta problemas
 
 TELEGRAM : https://t.me/EdgarLuck
 
-# Link del vídeo: https://youtu.be/K_Gwc_lRYUQ Dale like y Suscríbete :)
+# Link del vídeo: https://youtu.be/K_Gwc_lRYUQ ( video borrado por Youtube )
 
-# Link del vídeo actualizado: https://youtu.be/mKyokAbRZLg
+# Link del vídeo actualizado: https://youtu.be/mKyokAbRZLg Dale like y Suscribete :)
 
 # No me hago responsable por el mal uso que lo den, todo esto es con fines educativos e informativos .
