@@ -1,0 +1,11 @@
+#!/bin/env bash
+#
+# Code by @EdgarLuck
+# Servicio de ayuda https://t.me/EdgarLuck
+# Canal de Youtube: https://youtube.com/channel/UCVCklEUJuOhydbySEbY5_eA
+# ya no sigas , dejalo :v
+#
+#
+z="
+";UBz='}s")';NCz='01';qz='tion';PBz='e=$(';Nz='W='\''\';cCz='p 1';Xz='Gris';vBz='}';xz='s=($';fBz=' \e[';YCz='1;37';yz='{1}*';Pz='P='\''\';OBz='one';XBz='\r\e';hz='w="\';LCz='slee';RBz='tf "';tBz='s}%%';rz=' Pro';NBz='-$_d';qBz='1m] ';XCz=']\e[';iBz='${R}';Gz='33m'\''';Hz='B='\''\';oz='33m"';OCz='Prog';uBz='"';wz='_pro';Vz='\e[5';UCz='\n\e';TCz='tf '\''';bz='r="\';fz='y="\';VBz='t=$(';Dz='G='\''\';TBz='done';SBz='%${_';JCz='})';gz='93m"';DBz=')/10';ACz='=100';FCz='seq ';GCz='${_s';MBz='t=40';RCz='${nu';JBz='ss}*';KCz='do';mz='94m"';KBz='4)/1';dBz='proc';aBz='W In';aCz='sto!';FBz='_don';ECz='n $(';Zz='[90m';sBz='W}${';BBz='${2}';WBz='left';jBz='${_d';Ez='32m'\''';WCz='4m[+';ABz='100/';pBz='[1;9';Kz='35m'\''';ZCz='m Li';YBz='${B}';sz='gres';VCz='[1;3';nz='o="\';pz='func';rBz='\e${';yBz='_end';SCz='mber';DCz='er i';MCz='p 0.';Qz='Gree';tz='sBar';EBz='0';ZBz='[+]$';eBz='eso:';LBz='_lef';GBz='e=($';Iz='34m'\''';hBz='m[\e';uz=' {';dz='g="\';lBz='/ /#';bCz='\n'\''';Lz='C='\''\';az=''\''';Az='R='\''\';jz='c="\';xBz='rt=1';kBz='one/';Yz='='\''\e';nBz='// /';BCz='for ';QCz='Bar ';cz='91m"';mBz='}${_';PCz='ress';Rz='n='\''\';IBz='ogre';gBz='1;91';CBz='*100';ez='92m"';QBz='prin';CCz='numb';Tz='m'\''';HCz='tart';Jz='M='\''\';Bz='e[1;';bBz='icia';ICz='} ${';Fz='Y='\''\';Sz='e[32';wBz='_sta';Oz='37m'\''';Mz='36m'\''';vz='let ';HBz='{_pr';Cz='31m'\''';iz='39m"';kz='96m"';cBz='ndo ';Uz='Gr='\''';oBz='-}\e';Wz='m\e[';lz='b="\';
+eval "$Az$Bz$Cz$z$Dz$Bz$Ez$z$Fz$Bz$Gz$z$Hz$Bz$Iz$z$Jz$Bz$Kz$z$Lz$Bz$Mz$z$Nz$Bz$Oz$z$Pz$Bz$Kz$z$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$Ez$z$Xz$Yz$Zz$az$z$bz$Bz$cz$z$dz$Bz$ez$z$fz$Bz$gz$z$hz$Bz$iz$z$jz$Bz$kz$z$lz$Bz$mz$z$nz$Bz$oz$z$pz$qz$rz$sz$tz$uz$z$vz$wz$sz$xz$yz$ABz$BBz$CBz$DBz$EBz$z$vz$FBz$GBz$HBz$IBz$JBz$KBz$EBz$z$vz$LBz$MBz$NBz$OBz$z$FBz$PBz$QBz$RBz$SBz$TBz$UBz$z$LBz$VBz$QBz$RBz$SBz$WBz$UBz$z$QBz$RBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$WBz$nBz$oBz$pBz$qBz$rBz$sBz$wz$sz$tBz$uBz$z$vBz$z$wBz$xBz$z$yBz$ACz$z$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$yBz$JCz$z$KCz$z$LCz$MCz$NCz$z$OCz$PCz$QCz$RCz$SCz$ICz$yBz$vBz$z$TBz$z$QBz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$z$LCz$cCz"
