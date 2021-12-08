@@ -24,22 +24,21 @@ $ pkg install resolv-conf -y
 
 $ cd $HOME
 
-$ git clone https://github.com/edgarluck/Repair2.git
+$ git clone https://github.com/edgarluck/RepairPhish.git
 
-$ cd Repair2
+$ cd RepairPhish
 
 $ chmod +x RepairPhish.sh
 
 $ bash RepairPhish.sh
 
-* Se agrego scam .
 * Más mejoras en el script.
+
 # Screenshot 
 [![Screenshot-2021-11-01-11-24-52.png](https://i.postimg.cc/zDs304Xj/Screenshot-2021-11-01-11-24-52.png)](https://postimg.cc/LhVHsCPY)
 
 TELEGRAM : https://t.me/Linux_Informatic
 
-# Link del vídeo: https://youtu.be/K_Gwc_lRYUQ ( video borrado por Youtube )
 
 # Link del vídeo actualizado: https://youtu.be/mKyokAbRZLg Dale like y Suscribete :)
 
