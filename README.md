@@ -1,36 +1,37 @@
 # RepairPhish
 Solución a los siguientes scripts que no generan enlace vía ngrok :
- * CamPhish
 
- * insecam
+ * `CamPhish`
 
- * KitFish
+ * `insecam`
 
- * FotoSploit
+ * `KitFish`
 
- * scam 
+ * `FotoSploit`
+
+ * `scam`
 
 # Instalación en Termux
 
-$ apt update && apt upgrade -y
+$ `apt update && apt upgrade -y`
 
-$ pkg install git php -y
+$ `pkg install git php -y`
 
-$ pkg install openssh -y
+$ `pkg install openssh -y`
 
-$ pkg install proot -y
+$ `pkg install proot -y`
 
-$ pkg install resolv-conf -y
+$ `pkg install resolv-conf -y`
 
-$ cd $HOME
+$ `cd $HOME`
 
-$ git clone https://github.com/edgarluck/RepairPhish.git
+$ `git clone https://github.com/edgarluck/RepairPhish.git`
 
-$ cd RepairPhish
+$ `cd RepairPhish`
 
-$ chmod +x RepairPhish.sh
+$ `chmod +x RepairPhish.sh`
 
-$ bash RepairPhish.sh
+$ `bash RepairPhish.sh`
 
 * Más mejoras en el script.
 
