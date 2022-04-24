@@ -42,7 +42,7 @@ $ `bash RepairPhish.sh`
 ![repair](https://user-images.githubusercontent.com/76820660/164955880-dbde2022-3071-470e-af85-3cdda44f9140.jpg)
 
 
-### PASSWORD : Linux-Informatic-2021
+### PASSWORD : `Linux-Informatic-2021`
 ### TELEGRAM : https://t.me/Linux_Informatic
 
 
