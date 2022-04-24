@@ -37,6 +37,7 @@ $ bash RepairPhish.sh
 # Screenshot 
 [![Screenshot-2021-11-01-11-24-52.png](https://i.postimg.cc/zDs304Xj/Screenshot-2021-11-01-11-24-52.png)](https://postimg.cc/LhVHsCPY)
 
+### PASSWORD : Linux-Informatic-2021
 TELEGRAM : https://t.me/Linux_Informatic
 
 
