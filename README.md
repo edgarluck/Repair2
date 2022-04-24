@@ -37,8 +37,12 @@ $ bash RepairPhish.sh
 # Screenshot 
 [![Screenshot-2021-11-01-11-24-52.png](https://i.postimg.cc/zDs304Xj/Screenshot-2021-11-01-11-24-52.png)](https://postimg.cc/LhVHsCPY)
 
+# Screenshot Actualizado
+![repair](https://user-images.githubusercontent.com/76820660/164955880-dbde2022-3071-470e-af85-3cdda44f9140.jpg)
+
+
 ### PASSWORD : Linux-Informatic-2021
-TELEGRAM : https://t.me/Linux_Informatic
+### TELEGRAM : https://t.me/Linux_Informatic
 
 
 # Link del vídeo actualizado: https://youtu.be/mKyokAbRZLg Dale like y Suscribete :)
